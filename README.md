@@ -73,7 +73,9 @@ __Population growth,Job growth& Vacancy rate__
 
 <IMG SRC="./zipcode_growth.png" ALT="zipcode_growth">__Rent index__
 
-<IMG SRC="./zipcode_rent_index.png" ALT="zipcode_rent_index"># Best Zip Codes | Conclusions
+<IMG SRC="./zipcode_rent_index.png" ALT="zipcode_rent_index">
+ 
+ # Best Zip Codes | Conclusions
 
 The analysis, shows the best zip codes to invest are: 
 
