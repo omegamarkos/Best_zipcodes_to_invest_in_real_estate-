@@ -69,9 +69,12 @@ ROI was calculated for each year from 2015 to 2018 and then the average was used
 __Top zipcodes with the highest rate of increse__
 
 <IMG SRC="./high_roi_zipcodes.png" ALT="high_roi_zipcodes">
+ 
 __Population growth,Job growth& Vacancy rate__
 
-<IMG SRC="./zipcode_growth.png" ALT="zipcode_growth">__Rent index__
+<IMG SRC="./zipcode_growth.png" ALT="zipcode_growth">
+ 
+ __Rent index__
 
 <IMG SRC="./zipcode_rent_index.png" ALT="zipcode_rent_index">
  
