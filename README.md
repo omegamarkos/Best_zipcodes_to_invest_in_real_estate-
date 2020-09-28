@@ -1,8 +1,7 @@
 # BEST ZIP CODES TO INVEST
 
+<IMG SRC="./zipcodes_to_invest.png" ALT="zipcodes_to_invest">
 
-
-![zipcodes_to_invest.png](attachment:zipcodes_to_invest.png)
 
 
 ## Problem Statement
