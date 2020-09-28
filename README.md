@@ -67,16 +67,13 @@ The fluctuating price in real estate market put investors at risk of losing mone
 ROI was calculated for each year from 2015 to 2018 and then the average was used to select the top zip codes. 
 
 __Top zipcodes with the highest rate of increse__
-![high_roi_zipcodes.png](attachment:high_roi_zipcodes.png)
 
+<IMG SRC="./high_roi_zipcodes.png" ALT="high_roi_zipcodes">
 __Population growth,Job growth& Vacancy rate__
-![zipcode_growth.png](attachment:zipcode_growth.png)
 
-__Rent index__
+<IMG SRC="./zipcode_growth.png" ALT="zipcode_growth">__Rent index__
 
-![zipcode_rent_index.png](attachment:zipcode_rent_index.png)
-
-# Best Zip Codes | Conclusions
+<IMG SRC="./zipcode_rent_index.png" ALT="zipcode_rent_index"># Best Zip Codes | Conclusions
 
 The analysis, shows the best zip codes to invest are: 
 
